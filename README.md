@@ -4,7 +4,9 @@ Notes:
 -----
 Framework Used : Slim3
 Need to login to use the application. Sample username is "mahamud" and password is "password". Stored in json file under the database 
-folder. The login will genrate a token that is required to be used on subsequent requetss
+folder. 
+
+**The login will genrate a token that is required to be used on subsequent requets**
 
 Installation Instructions:
 -------------------------
