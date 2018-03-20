@@ -10,6 +10,8 @@ User database is kept simple for test purposes. Passwords are md5 hashed only.
 
 **The login will generate a token that is required to be used on subsequent requests**
 
+**logs folder should be writeable**
+
 Installation Instructions:
 -------------------------
 
