@@ -6,6 +6,8 @@ Framework Used : Slim3
 Need to login to use the application. Sample username is "mahamud" and password is "password". Stored in json file under the database 
 folder. 
 
+User database is kept simple for test purposes. Passwords are md5 hashed only.
+
 **The login will generate a token that is required to be used on subsequent requests**
 
 Installation Instructions:
