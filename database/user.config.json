@@ -1,0 +1,9 @@
+{
+  "last_id": 2,
+  "schema": {
+    "id": "integer",
+    "username": "string",
+    "password": "string",
+    "category": "string"
+  }
+}

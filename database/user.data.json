@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"username": "mahamud",
+		"password": "5f4dcc3b5aa765d61d8327deb882cf99",
+		"category": "admin"
+	},
+	{
+		"id": 2,
+		"name": "admin",
+		"password": "5f4dcc3b5aa765d61d8327deb882cf99",
+		"category": "admin"
+	}
+]
