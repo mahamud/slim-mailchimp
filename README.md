@@ -60,7 +60,6 @@ curl -X POST \
   https://api.loyalty.com/api/v1/mail/list/29f52dcfcd/member \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
-  -H 'postman-token: 60b4ee80-e613-8649-4144-59b7c09db6da' \
   -H 'x-auth-token: JvJtJdFPovgbKSFevz4VxKwhmvj~9Szwh3wCGu3v5rd4u8JfRVWxodFxbUCEuRrwRBsyvGLnXvQR73yMzE4zOnL2z8y4J0.DKnYzNb.waMa5Mtmp3IKmHDFZFzGvumeN.UlJHLk9Iy2I05R7dE.Ewv4t4XNNZiX4qk~ftmwamkdFkFoOQSt1Hxah6nJhuDdfXfxg8TjCim91H.nRl.bzyNDl0jQpaJ8ddGKMS0kf0jkAIM9GnuxJa3mx4di9my9c' \
   -d '{"email_address":"mahamud@gmail.com", "status":"subscribed"}
   
@@ -71,7 +70,6 @@ curl -X POST \
   https://api.loyalty.com/api/v1/mail/list/29f52dcfcd/members/1715009e206a9a2f75678f8806bccf21 \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
-  -H 'postman-token: 5c54d689-ddec-3cf9-59e3-4b20002efcc1' \
   -H 'x-auth-token: JvJtJdFPovgbKSFevz4VxKwhmvj~9Szwh3wCGu3v5rd4u8JfRVWxodFxbUCEuRrwRBsyvGLnXvQR73yMzE4zOnL2z8y4J0.DKnYzNb.waMa5Mtmp3IKmHDFZFzGvumeN.UlJHLk9Iy2I05R7dE.Ewv4t4XNNZiX4qk~ftmwamkdFkFoOQSt1Hxah6nJhuDdfXfxg8TjCim91H.nRl.bzyNDl0jQpaJ8ddGKMS0kf0jkAIM9GnuxJa3mx4di9my9c'
   
  ``` 
