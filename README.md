@@ -13,6 +13,7 @@ Installation Instructions:
 2. Please look in to app/config/config.dev.php for required environmental variables that require to be configured
 3. An encryption key and Mailchimp API key to be set in the host configuration or can be hard coded in the config file
 4. Host domain also requires to be configured.
+5. Endpoints are under /app/routes.php
 
 
 
